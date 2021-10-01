@@ -27,7 +27,10 @@ There are only 1,549 employees are eligible for mentorship program (born in 1965
 
 ![image text](Resources/Retirees_Mentors_Mentees.png)
 
-If the mentorship program eligibity criteria is updated and is offered to employees born on 1964 or 1965, then there will be manageble number of mentees per employess for most roles as shown on chart below. Hence it is recommended to expand the mentorship eligibity criteria to employees born between 1964 and 1965.  In addition it is recommended to implement current managers (regardless of thier birth year), mentor newly hire managers. 
+If the mentorship program eligibity criteria is updated and is offered to employees born on 1964 or 1965, then there will be manageble number of mentees per employess for most roles as shown on chart below. Hence it is recommended to expand the mentorship eligibity criteria to employees born between 1964 and 1965. 
 
-![image text](Resources/Retirees_Mentors_Mentees_updated.png)
+![image text](Resources/Retirees_Mentors_Mentees_Updated_list.png)
+
+
+ In addition it is recommended to implement current managers (regardless of their birth year) to mentor newly hired managers. 
 
